@@ -16,3 +16,9 @@ data/processed/
 # Secrets
 .env
 .env.*
+.venv/
+data/raw/
+data/processed/
+.env
+.env.*
+*.parquet
